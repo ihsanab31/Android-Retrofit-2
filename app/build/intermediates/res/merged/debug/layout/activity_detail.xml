@@ -1,0 +1,39 @@
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16sp"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <TextView
+        android:id="@+id/cuacadetail"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Cuaca"
+        android:gravity="center"
+        android:textSize="45sp"
+        android:padding="16sp"
+        />
+
+    <TextView
+        android:id="@+id/waktudetail"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Waktu"
+        android:gravity="center"
+        android:textSize="25sp"
+        android:padding="10sp"
+        />
+
+    <TextView
+        android:id="@+id/suhudetail"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Suhu"
+        android:gravity="center"
+        android:textSize="32sp"
+        android:padding="16sp"
+        android:textColor="@android:color/black"
+        />
+
+</LinearLayout>

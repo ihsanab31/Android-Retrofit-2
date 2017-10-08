@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\iihsa\.android\build-cache\aa9e60f27bf7f6e4ee8cf6bf73a6c9109f0fc8b2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="D:\Code Android\BelajarRetrofit\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_47849917622656b074e52b6fc2c676e632166f53\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\iihsa\.android\build-cache\eb79bc17a237854f4199ed4d9990d31518cb605a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="D:\Code Android\BelajarRetrofit\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e7aa7f1d5d41bb8a26c674c718a2717f04cd626b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\iihsa\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\logging-interceptor\3.4.0\73ccf14fba19ce2190297ac801579f3a85f1c0e8\logging-interceptor-3.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="73ccf14fba19ce2190297ac801579f3a85f1c0e8">
+        <dex dex="D:\Code Android\BelajarRetrofit\app\build\intermediates\transforms\dex\debug\folders\1000\10\logging-interceptor-3.4.0_f501b80d458c665b09589deb56c970c750c95059\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\iihsa\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="D:\Code Android\BelajarRetrofit\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-26.0.0-alpha1_bcfa376929de7a07028bddee553be9055030db0a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\iihsa\.android\build-cache\723094bf4db6a537036a9ace9a6ce8f4e182c3a3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="D:\Code Android\BelajarRetrofit\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6f9320a46f5fec5986c335a0db196f7058345cdb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\iihsa\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.9.0\f824591a0016efbaeddb8300bee54832a1398cfa\okio-1.9.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="D:\Code Android\BelajarRetrofit\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.9.0_727604c8bdf6d8abc9cb5dbacfb09816e59f9a30\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Code Android\BelajarRetrofit\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="D:\Code Android\BelajarRetrofit\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_15a926f656a18dbd078a70ed03c1cfcde776ac2b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\iihsa\.android\build-cache\1de4a98b4f379d74923078a51ec81fd28181335b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="D:\Code Android\BelajarRetrofit\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f622bd56822a7385ec87dbe45f73bed270815c29\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\iihsa\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.1.0\2de7cd8b95b7021b1d597f049bcb422055119f2c\retrofit-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="D:\Code Android\BelajarRetrofit\app\build\intermediates\transforms\dex\debug\folders\1000\10\retrofit-2.1.0_d7501d384574d7408983855db46b8f07720d5d89\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\iihsa\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="D:\Code Android\BelajarRetrofit\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_86447f23d31e0781bff152c221054bb7bb459613\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\iihsa\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.1.0\aa557d71ead91cbf26e0c316a0f593d168303309\converter-gson-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="D:\Code Android\BelajarRetrofit\app\build\intermediates\transforms\dex\debug\folders\1000\10\converter-gson-2.1.0_6dbc7e3a30e593adacd66e0b3407fcde3d0d721a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\iihsa\.android\build-cache\4241c5c7d16e6a95e5fc78982542450613d2287d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="D:\Code Android\BelajarRetrofit\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8149917ae78fbad13717ac78d69646d1a540f6ce\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\iihsa\.android\build-cache\11d755a5e58d3c4a3f5a23fbf17977c578cb32f0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="D:\Code Android\BelajarRetrofit\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_afe9c5a77fd38aaa1bd7fed33f5c638046aef4d7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\iihsa\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\adapter-rxjava\2.1.0\693eddc23e87ab13f9cf5001707ce8e7e1d1ff01\adapter-rxjava-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="693eddc23e87ab13f9cf5001707ce8e7e1d1ff01">
+        <dex dex="D:\Code Android\BelajarRetrofit\app\build\intermediates\transforms\dex\debug\folders\1000\10\adapter-rxjava-2.1.0_f5357f3680fe5e3d62ffb1cb2782b2bcbb80320a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\iihsa\.android\build-cache\6fa990efef6a236fc697d45286897cd32f2e5aeb\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="D:\Code Android\BelajarRetrofit\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a6de3104ccde72edbefa1644907b50fd45e0a42d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\iihsa\.gradle\caches\modules-2\files-2.1\io.reactivex\rxjava\1.1.5\ece7b5d0870e66d8226dab6dcf47a2b12afff061\rxjava-1.1.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ece7b5d0870e66d8226dab6dcf47a2b12afff061">
+        <dex dex="D:\Code Android\BelajarRetrofit\app\build\intermediates\transforms\dex\debug\folders\1000\10\rxjava-1.1.5_b0f4197a69aaed6effb9e53a19dae1b6d3ded2fc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\iihsa\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.4.0\76d5ab52302434606c732539314290db91ebf25\okhttp-3.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="076d5ab52302434606c732539314290db91ebf25">
+        <dex dex="D:\Code Android\BelajarRetrofit\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.4.0_6fb75647c5763d8e4a069529b01ec465a6783bf7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\iihsa\.android\build-cache\4c04fd6ca3db7c85225d7b14228bbee1e42595c2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="D:\Code Android\BelajarRetrofit\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9ad932f96b971ebfb4f6ec4349ffe916990af6d1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\iihsa\.android\build-cache\5e6f769909202580a5e397ac790798f671e97d9e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="D:\Code Android\BelajarRetrofit\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c6b783e5a43f00cfbd494e08ed35502e3d1bc32f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\iihsa\.android\build-cache\d41e099ba5ac01a9ec78c7335ae8a97ebd8f238b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="D:\Code Android\BelajarRetrofit\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_677c3d8860850f2504cb0fdfd2e4215573d57a56\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Code Android\BelajarRetrofit\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3e67280f537b5cf13eb03e7774e2ffa6cf805450">
+        <dex dex="D:\Code Android\BelajarRetrofit\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_e88ffb771eb8b877f75de5f8d5e5e902ca4e8e35\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\iihsa\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="D:\Code Android\BelajarRetrofit\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.7_866db72423f462d5f8e4bc8efab0a7d2a6f7952b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\iihsa\.android\build-cache\2166daebfd0adb21772b246ec497cdd4ff7e121a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\Code Android\BelajarRetrofit\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6a9f78f6a1de32541228a9e13cf17110e66c4289\classes.dex" />
+    </item>
+
+</items>

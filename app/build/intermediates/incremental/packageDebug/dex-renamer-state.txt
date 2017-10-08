@@ -1,0 +1,7 @@
+#Sun Oct 08 23:59:46 ICT 2017
+base.0=D\:\\Code Android\\BelajarRetrofit\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_15a926f656a18dbd078a70ed03c1cfcde776ac2b
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=D\:\\Code Android\\BelajarRetrofit\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_e88ffb771eb8b877f75de5f8d5e5e902ca4e8e35\\classes.dex
+base.1=D\:\\Code Android\\BelajarRetrofit\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_e88ffb771eb8b877f75de5f8d5e5e902ca4e8e35
+file.0=D\:\\Code Android\\BelajarRetrofit\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_15a926f656a18dbd078a70ed03c1cfcde776ac2b\\classes.dex

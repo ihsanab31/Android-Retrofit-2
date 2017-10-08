@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\Code Android\\BelajarRetrofit\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_launcher_round.png",
+        "source": "D:\\Code Android\\BelajarRetrofit\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Code Android\\BelajarRetrofit\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_launcher.png",
+        "source": "D:\\Code Android\\BelajarRetrofit\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    }
+]
